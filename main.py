@@ -1,4 +1,6 @@
-# Print array
+'''
+with for
+'''
 def imprimir_Arreglo(arreglo):
   tamanio = len(arreglo)
   for i in range(tamanio-1):
